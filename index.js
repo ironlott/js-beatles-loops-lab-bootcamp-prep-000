@@ -19,12 +19,13 @@ function johnLennonFacts(array){
 
 
 function iLoveTheBeatles(number){
+  var i = parseInt(0);
   var emptyString = [];
   do {
     var string = "I love the Beatles!";
     emptyString.push(string);
     number++;
-  }while(i < 15)
+  }while(number < 15)
   return emptyString;
 }
 
