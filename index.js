@@ -28,5 +28,5 @@ function iLoveTheBeatles(number){
   return emptyString;
 }
 
-ok so i was getting a few errors that I wasn't sure how to fix
+the return takes care of that but what about the 8 times at 7 ?
 
