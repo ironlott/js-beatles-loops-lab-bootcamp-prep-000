@@ -19,7 +19,6 @@ function johnLennonFacts(array){
 
 
 function iLoveTheBeatles(number){
-  var i = parseInt(0);
   var emptyString = [];
   do {
     var string = "I love the Beatles!";
