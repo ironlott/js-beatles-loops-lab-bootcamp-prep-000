@@ -27,6 +27,9 @@ function iLoveTheBeatles(number){
   }while(number < 15)
   return emptyString;
 }
-
-the return takes care of that but what about the 8 times at 7 ?
+ does the 0 count as the first one? 
+ so if it's a counter then its returned emptyString?
+ upto that point 
+ i'm just trying to see the array as it itterates 
+ 
 
